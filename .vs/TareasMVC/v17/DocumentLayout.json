@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\views\\usuarios\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\views\\usuarios\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\models\\usuarioslistadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\models\\usuarioslistadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\servicios\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\servicios\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|c:\\users\\mordo\\source\\repos\\tareasmvc\\tareasmvc\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223033C7-CEC2-47FA-A271-6CF64B31575D}|TareasMVC\\TareasMVC.csproj|solutionrelative:tareasmvc\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Entidades\\Tarea.cs",
+              "RelativeDocumentMoniker": "TareasMVC\\Entidades\\Tarea.cs",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Entidades\\Tarea.cs",
+              "RelativeToolTip": "TareasMVC\\Entidades\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Servicios\\Constantes.cs",
+              "RelativeDocumentMoniker": "TareasMVC\\Servicios\\Constantes.cs",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Servicios\\Constantes.cs",
+              "RelativeToolTip": "TareasMVC\\Servicios\\Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:52:09.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TareasMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TareasMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T14:27:34.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listado.cshtml",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Usuarios\\Listado.cshtml",
+              "RelativeDocumentMoniker": "TareasMVC\\Views\\Usuarios\\Listado.cshtml",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Usuarios\\Listado.cshtml",
+              "RelativeToolTip": "TareasMVC\\Views\\Usuarios\\Listado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T14:12:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosListadoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Models\\UsuariosListadoViewModel.cs",
+              "RelativeDocumentMoniker": "TareasMVC\\Models\\UsuariosListadoViewModel.cs",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Models\\UsuariosListadoViewModel.cs",
+              "RelativeToolTip": "TareasMVC\\Models\\UsuariosListadoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:47.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Models\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "TareasMVC\\Models\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Models\\UsuarioViewModel.cs",
+              "RelativeToolTip": "TareasMVC\\Models\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:14.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "TareasMVC\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "TareasMVC\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAADwv84AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:12:00.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Usuarios\\Login.cshtml",
+              "RelativeDocumentMoniker": "TareasMVC\\Views\\Usuarios\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Usuarios\\Login.cshtml",
+              "RelativeToolTip": "TareasMVC\\Views\\Usuarios\\Login.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T05:32:18.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Usuarios\\Registro.cshtml",
+              "RelativeDocumentMoniker": "TareasMVC\\Views\\Usuarios\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\mordo\\source\\repos\\TareasMVC\\TareasMVC\\Views\\Usuarios\\Registro.cshtml",
+              "RelativeToolTip": "TareasMVC\\Views\\Usuarios\\Registro.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:10:39.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

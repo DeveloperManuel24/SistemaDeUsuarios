@@ -1,0 +1,9 @@
+﻿Add-Migration Tareas       
+
+Significa que podes comvertir la entidad en una tabla(solo que des pues de Add-Migration realmente podes poner el nombre que vos queras)
+
+
+
+Update-Database
+
+va aplicar las migraciones en la base de datos y detecta si existe la base de datos, y si no, la crea
